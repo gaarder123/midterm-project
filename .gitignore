@@ -1,0 +1,11 @@
+train.csv
+test.csv
+oof_predictions.csv
+test_predictions.csv
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
