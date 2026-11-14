@@ -1,11 +1,20 @@
+# Data
 train.csv
 test.csv
+
+# Intermediate predictions
 oof_predictions.csv
 test_predictions.csv
-*.zip
 
-.ipynb_checkpoints/
+# Python
 __pycache__/
+*.py[cod]
 .venv/
 venv/
-.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
